@@ -1,6 +1,6 @@
 # @mojitoswap-libs/governance
 
-[![Actions Status](https://github.com/MojitoFinance/governance/workflows/tests/badge.svg)](https://github.com/MojitoFinance/governance/actions)
+[![Actions Status](https://github.com/MojitoFinance/governance/workflows/CI/badge.svg)](https://github.com/MojitoFinance/governance/actions)
 
 # Local Development
 
